@@ -1,0 +1,12 @@
+{
+  "host": "p-terphenyl",
+  "guest": "pentacene",
+  "temperature_K": 300,
+  "spin": 1,
+  "zfs_MHz": {"T_yz": 108.0, "T_xy": 1340.0, "T_xz": 1448.0},
+  "odmr_contrast": 0.168,
+  "linewidth_MHz": 7.0,
+  "T2_echo_us": 2.7,
+  "T2_cpmg_us": 18.4,
+  "notes": "Nominal published-scale numbers for sandbox simulation. Not a new measurement."
+}
