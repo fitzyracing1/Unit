@@ -40,3 +40,8 @@ python sim/demo.py
 Concept + sandbox simulation. Not a fabricated lab result.
 
 Related: Organic Spin Processor (Hardware-Prototype-Tracker #5).
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/Unit/wiki](https://github.com/fitzyracing1/Unit/wiki)
